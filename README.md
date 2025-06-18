@@ -5,5 +5,5 @@ A newer hypnotic business card holder
 
 Known Issues: 
 
-This remains an untested design. Feel free to reach out if you plan on attempting it. 
+This has only been printed once by me. Feel free to reach out if you plan on attempting it. 
 
